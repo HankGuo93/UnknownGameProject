@@ -1,0 +1,12 @@
+TestObject1,-16777216,/resources/imgs/actor/player1.png,1,1
+Name,-25344,/resources/imgs/actor/player2.png,1,1
+Name,-1704192,/resources/imgs/actor/enemy1.png,1,1
+Name,-16449792,/resources/imgs/actor/enemy2.png,1,1
+Name,-7208713,/resources/imgs/actor/enemy3.png,1,1
+Name,-16754945,/resources/imgs/background/bg_gress.png,1,1
+Name,-16713758,/resources/imgs/background/bg_well.png,1,1
+Name,-1900291,/resources/imgs/objs/ground.png,1,1
+Name,-5505792,/resources/imgs/objs/stone.png,2,2
+Name,-547840,/resources/imgs/objs/stone.png,2,2
+Name,-4390912,/resources/imgs/objs/stone.png,2,2
+Name,-65536,/resources/imgs/objs/stone.png,2,2
